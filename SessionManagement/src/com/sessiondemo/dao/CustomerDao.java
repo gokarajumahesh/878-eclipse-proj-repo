@@ -35,7 +35,7 @@ public class CustomerDao {
 					System.out.println("cusomterid="+userid);
 					//jghghgh
 
-					System.out.println("Namaste");
+					System.out.println("heya");
 
 				}
 						
