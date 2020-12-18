@@ -33,7 +33,7 @@ public class CustomerDao {
 					System.out.println("inside while");
 					userid=rs.getInt("custid");
 					System.out.println("cusomterid="+userid);
-					
+					//jghghgh
 				}
 						
 			} catch (ClassNotFoundException e) {
