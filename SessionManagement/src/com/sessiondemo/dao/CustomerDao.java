@@ -34,7 +34,9 @@ public class CustomerDao {
 					userid=rs.getInt("custid");
 					System.out.println("cusomterid="+userid);
 					//jghghgh
+
 					System.out.println("Namaste");
+
 				}
 						
 			} catch (ClassNotFoundException e) {
